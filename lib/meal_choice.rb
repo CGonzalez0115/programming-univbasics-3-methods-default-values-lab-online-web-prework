@@ -6,9 +6,9 @@ end
   when 'should default to meat for the protein' do
 end
 
-  when 'should allow you to set a protein' do  
+  when 'should allow you to set a protein' do
 end
 
-  when 'should puts "What a nutritious meal!" and your order to the console' do  
+  when 'should puts "What a nutritious meal!" and your order to the console' do
 end
 end
